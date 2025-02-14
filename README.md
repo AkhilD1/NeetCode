@@ -1,2 +1,2 @@
 # NeetCode
-** Solving Neetcode 150 Solutions **
+** Solving Neetcode 150 problems **
